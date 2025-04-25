@@ -11,6 +11,7 @@ C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Infrastructure\obj\Debu
 C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Infrastructure\obj\Debug\net8.0\GymApp.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Infrastructure\obj\Debug\net8.0\GymApp.Infrastructure.AssemblyInfo.cs
 C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Infrastructure\obj\Debug\net8.0\GymApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Infrastructure\obj\Debug\net8.0\GymApp.Infrastructure.sourcelink.json
 C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Infrastructure\obj\Debug\net8.0\GymApp.I.6C13234C.Up2Date
 C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Infrastructure\obj\Debug\net8.0\GymApp.Infrastructure.dll
 C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Infrastructure\obj\Debug\net8.0\refint\GymApp.Infrastructure.dll

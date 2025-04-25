@@ -1,7 +1,7 @@
 using GymApp.Auth.DTOs;
 using GymApp.Domain.Entities;
 using GymApp.Auth.Services;
-using GymApp.Infrastructure.Data;
+using GymApp.Infrastructure.Persistence;
 
 namespace GymApp.Infrastructure.Services;
 

@@ -5,6 +5,7 @@ C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\obj\Debug\net8.0
 C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\obj\Debug\net8.0\GymApp.Domain.AssemblyInfoInputs.cache
 C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\obj\Debug\net8.0\GymApp.Domain.AssemblyInfo.cs
 C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\obj\Debug\net8.0\GymApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\obj\Debug\net8.0\GymApp.Domain.sourcelink.json
 C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\obj\Debug\net8.0\GymApp.Domain.dll
 C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\obj\Debug\net8.0\refint\GymApp.Domain.dll
 C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\obj\Debug\net8.0\GymApp.Domain.pdb

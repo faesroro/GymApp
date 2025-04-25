@@ -3,9 +3,9 @@ using Microsoft.EntityFrameworkCore;
 
 namespace GymApp.Infrastructure.Persistence;
 
-public class AuthPersistenceDbContext : DbContext
+public class AuthDbContext : DbContext
 {
-    public AuthPersistenceDbContext(DbContextOptions<AuthPersistenceDbContext> options)
+    public AuthDbContext(DbContextOptions<AuthDbContext> options)
         : base(options) { }
 
     public DbSet<User> Users => Set<User>();

@@ -2,7 +2,6 @@ using GymApp.Infrastructure.Persistence;
 using Microsoft.EntityFrameworkCore;
 using GymApp.Auth.Services;
 using GymApp.Infrastructure.Services;
-using GymApp.Infrastructure.Data;
 
 
 var builder = WebApplication.CreateBuilder(args);
