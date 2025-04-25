@@ -1,0 +1,11 @@
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\bin\Debug\net8.0\GymApp.Domain.deps.json
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\bin\Debug\net8.0\GymApp.Domain.dll
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\bin\Debug\net8.0\GymApp.Domain.pdb
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\obj\Debug\net8.0\GymApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\obj\Debug\net8.0\GymApp.Domain.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\obj\Debug\net8.0\GymApp.Domain.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\obj\Debug\net8.0\GymApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\obj\Debug\net8.0\GymApp.Domain.dll
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\obj\Debug\net8.0\refint\GymApp.Domain.dll
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\obj\Debug\net8.0\GymApp.Domain.pdb
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Domain\obj\Debug\net8.0\ref\GymApp.Domain.dll

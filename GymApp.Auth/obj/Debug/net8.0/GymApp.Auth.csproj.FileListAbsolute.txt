@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Auth\bin\Debug\net8.0\GymApp.Auth.deps.json
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Auth\bin\Debug\net8.0\GymApp.Auth.dll
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Auth\bin\Debug\net8.0\GymApp.Auth.pdb
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Auth\bin\Debug\net8.0\GymApp.Domain.dll
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Auth\bin\Debug\net8.0\GymApp.Domain.pdb
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Auth\obj\Debug\net8.0\GymApp.Auth.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Auth\obj\Debug\net8.0\GymApp.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Auth\obj\Debug\net8.0\GymApp.Auth.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Auth\obj\Debug\net8.0\GymApp.Auth.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Auth\obj\Debug\net8.0\GymApp.Auth.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Auth\obj\Debug\net8.0\GymApp.A.8EBEF433.Up2Date
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Auth\obj\Debug\net8.0\GymApp.Auth.dll
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Auth\obj\Debug\net8.0\refint\GymApp.Auth.dll
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Auth\obj\Debug\net8.0\GymApp.Auth.pdb
+C:\Users\LENOVO\Documents\Fabian\ProyectoGimnasio\GymApp.Auth\obj\Debug\net8.0\ref\GymApp.Auth.dll
